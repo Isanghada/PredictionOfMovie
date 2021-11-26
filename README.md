@@ -40,6 +40,7 @@
  
 ### 6. 팀원 각자의 목표한 역할
   - 스토리별 역할 분배
+  - 구글 드라이브 : https://drive.google.com/drive/folders/1KfbVX6P0QhPFNE1A--cmuceCTLGKelgU?usp=sharing
   - 김남규
   - 노연우
   - 이은지
