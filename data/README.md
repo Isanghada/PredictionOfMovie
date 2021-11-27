@@ -19,7 +19,8 @@
   - 전국관객수 : 전국 관객수, 수치형
   - 서울매출액 : 서울 매출액, 수치형
   - 서울관객수 : 서울 관객수, 수치형
-  - 장르 : 대표 장르, 범주형('')
+  - 장르 : 대표 장르, 범주형
+    - 21개의 유형(<a href = 'https://www.kobis.or.kr/kobis/business/stat/online/onlineGenreStat.do?CSRFToken=yOhFhXI1uvJrdJ_SERa8YxZhVjS9tKCERgIId5CsBXA&loadEnd=0&searchType=search&sSearchYearFrom=2021&sSearchMonthFrom=02&sSearchYearTo=2021&sSearchMonthTo=08' target='_blink'>KOBIS 장르별 통계 기준</a>)
   - 등급 : 영화 시청 등급, 범주형
   - 영화구분 : 영화 구분, 범주형('일반 영화', '독립/예술영화')
 ---
