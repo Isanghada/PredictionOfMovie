@@ -50,3 +50,6 @@
 ### 7. 참고 자료
   - https://www.koreascience.or.kr/article/CFKO202015463051319.pdf
   - http://www.bigdata-map.kr/datastory/new/story_24
+  - http://koreascience.or.kr/article/JAKO201834663385693.pdf
+  - https://rpubs.com/leesohee/689993
+  - https://smecsm.tistory.com/69
